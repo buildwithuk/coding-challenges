@@ -3,7 +3,7 @@ def maxProfit(prices):
 
     # Iterate through the prices array
     for i in range(1, len(prices)):
-        # If the price of the current day is greater than the previous day, calculate profit
+        # If the price of the current day is greater than the previous da, calculate profit
         if prices[i] > prices[i - 1]:
             max_profit += prices[i] - prices[i - 1]
 
