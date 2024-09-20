@@ -1,0 +1,14 @@
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/bin/Debug/net8.0/Challenge1
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/bin/Debug/net8.0/Challenge1.deps.json
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/bin/Debug/net8.0/Challenge1.runtimeconfig.json
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/bin/Debug/net8.0/Challenge1.dll
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/bin/Debug/net8.0/Challenge1.pdb
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.AssemblyInfoInputs.cache
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.AssemblyInfo.cs
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.dll
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/refint/Challenge1.dll
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.pdb
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/Challenge1.genruntimeconfig.cache
+/Users/umairkhan/Documents/Coding Challenges/Challenge1/DontNet/Challenge1/obj/Debug/net8.0/ref/Challenge1.dll
