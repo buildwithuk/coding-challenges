@@ -1,0 +1,15 @@
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/bin/Debug/net8.0/RotateArraySolution
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/bin/Debug/net8.0/RotateArraySolution.deps.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/bin/Debug/net8.0/RotateArraySolution.runtimeconfig.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/bin/Debug/net8.0/RotateArraySolution.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/bin/Debug/net8.0/RotateArraySolution.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.AssemblyInfoInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.AssemblyInfo.cs
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.csproj.CoreCompileInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.sourcelink.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/refint/RotateArraySolution.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/RotateArraySolution.genruntimeconfig.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 2/DotNet/RotateArraySolution/obj/Debug/net8.0/ref/RotateArraySolution.dll

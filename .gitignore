@@ -3,3 +3,7 @@
 Coding Challenges/.DS_Store
 Coding Challenges/Challenge1/.DS_Store
 *.props
+*.cache
+*.pdb
+*.editorconfig
+*.mod

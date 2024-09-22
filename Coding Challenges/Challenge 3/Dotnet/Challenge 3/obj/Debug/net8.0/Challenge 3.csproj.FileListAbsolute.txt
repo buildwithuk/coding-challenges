@@ -1,0 +1,15 @@
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/bin/Debug/net8.0/Challenge 3
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/bin/Debug/net8.0/Challenge 3.deps.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/bin/Debug/net8.0/Challenge 3.runtimeconfig.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/bin/Debug/net8.0/Challenge 3.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/bin/Debug/net8.0/Challenge 3.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.AssemblyInfoInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.AssemblyInfo.cs
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.csproj.CoreCompileInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.sourcelink.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/refint/Challenge 3.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/Challenge 3.genruntimeconfig.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Challenge 3/obj/Debug/net8.0/ref/Challenge 3.dll
