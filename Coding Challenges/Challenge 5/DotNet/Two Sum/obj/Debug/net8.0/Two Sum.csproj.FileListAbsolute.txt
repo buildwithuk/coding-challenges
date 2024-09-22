@@ -1,0 +1,15 @@
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/bin/Debug/net8.0/Two Sum
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/bin/Debug/net8.0/Two Sum.deps.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/bin/Debug/net8.0/Two Sum.runtimeconfig.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/bin/Debug/net8.0/Two Sum.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/bin/Debug/net8.0/Two Sum.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.AssemblyInfoInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.AssemblyInfo.cs
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.csproj.CoreCompileInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.sourcelink.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/refint/Two Sum.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/Two Sum.genruntimeconfig.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 5/DotNet/Two Sum/obj/Debug/net8.0/ref/Two Sum.dll
