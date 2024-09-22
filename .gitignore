@@ -1,11 +1,13 @@
 
 *.dll
-Coding Challenges/.DS_Store
+*.DS_Store
 Coding Challenges/Challenge1/.DS_Store
 *.props
 *.cache
 *.pdb
 *.editorconfig
 *.mod
-Coding Challenges/Challenge 3/.DS_Store
+.DS_Store
 Coding Challenges/Challenge 6/DotNet/Robbing House/obj/Debug/net8.0/Robbing House.csproj.FileListAbsolute.txt
+*.class
+Coding Challenges/Challenge 3/.DS_Store
