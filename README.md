@@ -21,3 +21,6 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dyna
 
 ### Challenge 8
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/
+
+### Challenge 9
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/
