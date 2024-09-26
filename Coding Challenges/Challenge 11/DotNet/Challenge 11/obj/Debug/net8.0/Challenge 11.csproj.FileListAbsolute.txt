@@ -1,0 +1,15 @@
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/bin/Debug/net8.0/Challenge 11
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/bin/Debug/net8.0/Challenge 11.deps.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/bin/Debug/net8.0/Challenge 11.runtimeconfig.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/bin/Debug/net8.0/Challenge 11.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/bin/Debug/net8.0/Challenge 11.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.AssemblyInfoInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.AssemblyInfo.cs
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.csproj.CoreCompileInputs.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.sourcelink.json
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/refint/Challenge 11.dll
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.pdb
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/Challenge 11.genruntimeconfig.cache
+/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 11/DotNet/Challenge 11/obj/Debug/net8.0/ref/Challenge 11.dll
