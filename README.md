@@ -2,6 +2,10 @@
 https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/
 Explore - LeetCode
 
+### Challenge 2
+
+Rotate the array
+
 ### Challenge 4
 Generate Divisors
 
