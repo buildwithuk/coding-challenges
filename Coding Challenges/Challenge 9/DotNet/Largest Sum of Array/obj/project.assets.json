@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Dotnet/Challenge 3/Challenge 3.csproj",
-      "projectName": "Challenge 3",
-      "projectPath": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Dotnet/Challenge 3/Challenge 3.csproj",
+      "projectUniqueName": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 9/DotNet/Largest Sum of Array/Largest Sum of Array.csproj",
+      "projectName": "Largest Sum of Array",
+      "projectPath": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 9/DotNet/Largest Sum of Array/Largest Sum of Array.csproj",
       "packagesPath": "/Users/umairkhan/.nuget/packages/",
-      "outputPath": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 3/Dotnet/Challenge 3/obj/",
+      "outputPath": "/Users/umairkhan/Documents/GitHub/coding-challenges/Coding Challenges/Challenge 9/DotNet/Largest Sum of Array/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/umairkhan/.nuget/NuGet/NuGet.Config"

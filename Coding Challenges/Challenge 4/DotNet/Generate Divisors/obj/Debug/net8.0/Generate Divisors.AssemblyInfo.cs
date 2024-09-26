@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generate Divisors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb0c8c09a838a211d871cdd51f1671362aa7ec2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6c8756282850a70c9c20bc20a9f14ebcdc90da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generate Divisors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generate Divisors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
