@@ -24,3 +24,9 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dyna
 
 ### Challenge 9
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/
+
+### Challenge 10
+https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
+
+### Challenge 11
+https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true
