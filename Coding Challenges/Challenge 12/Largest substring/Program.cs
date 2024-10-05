@@ -14,33 +14,46 @@ static int returnLargestSubstring(String letters) {
     int count = 0; 
     HashSet<char> set = new HashSet<char>();
 
+    
 
     for(int i = 0; i < letters.Length; i++) {
 
         var currenctCharacter = letters[i];
-
-        if (set.Contains(currenctCharacter)) {
-
-            count = count > set.Count == true ? count : set.Count;
-
-
-            set = new HashSet<char>();
-            set.Add(currenctCharacter);
+        set.Add(currenctCharacter);
 
 
 
+        for (int j = i+1; j < letters.Length; j++) {
 
-        } else {
-            set.Add(currenctCharacter);
+            var nextCharacter = letters[j];
+
+            if (set.Contains(nextCharacter)) {
+
+                count = count > set.Count == true ? count : set.Count;
+                set.Clear();
+                break;
+
+            } else {
+                set.Add(nextCharacter);
+            }
+
         }
+
+        if (i == letters.Length-1) {
+            
+                count = count > set.Count == true ? count : set.Count;
+ break;
+        }
+           
+
 
     }
 
-    return  count > set.Count == true ? count : set.Count;
+    return  count;
 }
 
 
-var largestString = "dvdf";
+var largestString = "abcabcbb";
 
 var length = returnLargestSubstring(largestString);
 
