@@ -3,12 +3,19 @@
 
 static int returnLargestSubstring(String letters) {
 
+
+        if (letters.Length == 0)
+            return 0;
+
+        if (letters.Length == 1)
+            return 1;
+
+
     int count = 0; 
     HashSet<char> set = new HashSet<char>();
 
-    set.Add(letters[0]);
 
-    for(int i = 1; i < letters.Length; i++) {
+    for(int i = 0; i < letters.Length; i++) {
 
         var currenctCharacter = letters[i];
 
@@ -29,11 +36,11 @@ static int returnLargestSubstring(String letters) {
 
     }
 
-    return count;
+    return  count > set.Count == true ? count : set.Count;
 }
 
 
-var largestString = "pwwkew";
+var largestString = "dvdf";
 
 var length = returnLargestSubstring(largestString);
 
