@@ -30,3 +30,6 @@ https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=t
 
 ### Challenge 11
 https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true
+
+### Challenge 12
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
