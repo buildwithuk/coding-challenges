@@ -33,3 +33,30 @@ https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen
 
 ### Challenge 12
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+### Challenge 13
+https://leetcode.com/problems/minimum-window-substring/description/
+
+### Challenge 14
+https://coderbyte.com/information/Bracket%20Matcher
+
+### Challenge 15
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+### Challenge 16
+https://leetcode.com/problems/zigzag-conversion/description/
+
+### Challenge 17
+https://leetcode.com/problems/reverse-integer/submissions/1466800910/
+
+### Challenge 18
+https://leetcode.com/problems/container-with-most-water/description/
+
+### Challenge 19
+https://leetcode.com/problems/3sum-closest/
+
+### Challenge 20
+https://leetcode.com/problems/4sum/description/
+
+### Challenge 21
+https://leetcode.com/problems/merge-intervals/description/
