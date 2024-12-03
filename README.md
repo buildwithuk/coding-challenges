@@ -60,3 +60,10 @@ https://leetcode.com/problems/4sum/description/
 
 ### Challenge 21
 https://leetcode.com/problems/merge-intervals/description/
+
+
+### Challenge 22
+https://leetcode.com/problems/two-sum/description/
+
+### Challenge 23
+https://leetcode.com/problems/adding-spaces-to-a-string/?envType=daily-question&envId=2024-12-03
