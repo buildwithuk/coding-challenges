@@ -2,6 +2,32 @@
 
 These are the programs I have wrote that are usually asked in the coding interviews.
 
+### Easy Programs using recursion
+
+#### Factorial of a Number
+Write a recursive function to calculate the factorial of a number.
+
+#### Fibonacci Sequence
+Generate the nth term of the Fibonacci sequence using recursion.
+
+#### Sum of Digits
+Write a recursive function to calculate the sum of the digits of a given number.
+
+#### Reverse a String
+Use recursion to reverse a string.
+
+#### Check Palindrome
+Check whether a string is a palindrome using recursion.
+
+### Intermediate Programs using recursion
+
+#### Exponentiation
+Write a recursive function to calculate the power of a number 
+
+#### Count Occurrences of a Character
+Count the number of times a character appears in a string using recursion.
+
+
 
 ## Misc Challenges
 
