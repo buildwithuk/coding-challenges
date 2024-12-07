@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Climbing Stairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5622956d5e3e4626a11e81c5e45f25b7e2a164fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90506fa2bf63b5cb6dc0452e6985d74c5d7acd7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Climbing Stairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Climbing Stairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
