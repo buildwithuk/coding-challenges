@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{FF8BBF13-9664-4A09-B8F4-B25C7B2FCC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Sum of Array", "..\..\Challenge 9\DotNet\Largest Sum of Array\Largest Sum of Array.csproj", "{8CE915A0-7015-4B3A-AEAB-068AB437CA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8BBF13-9664-4A09-B8F4-B25C7B2FCC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8BBF13-9664-4A09-B8F4-B25C7B2FCC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8BBF13-9664-4A09-B8F4-B25C7B2FCC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8BBF13-9664-4A09-B8F4-B25C7B2FCC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE915A0-7015-4B3A-AEAB-068AB437CA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE915A0-7015-4B3A-AEAB-068AB437CA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE915A0-7015-4B3A-AEAB-068AB437CA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE915A0-7015-4B3A-AEAB-068AB437CA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
