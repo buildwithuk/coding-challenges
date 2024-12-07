@@ -67,3 +67,12 @@ https://leetcode.com/problems/two-sum/description/
 
 ### Challenge 23
 https://leetcode.com/problems/adding-spaces-to-a-string/?envType=daily-question&envId=2024-12-03
+
+### Challenge 24
+https://leetcode.com/problems/group-anagrams/
+
+### Challenge 25
+https://leetcode.com/problems/first-missing-positive/description/
+
+### Challenge 26
+https://leetcode.com/problems/single-number-ii/description/
