@@ -28,6 +28,9 @@ Write a recursive function to calculate the power of a number
 Count the number of times a character appears in a string using recursion.
 
 
+#### Perform Binary search
+Count the number of times a character appears in a string using recursion.
+
 
 ## Misc Challenges
 
