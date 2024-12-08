@@ -32,10 +32,17 @@ Count the number of times a character appears in a string using recursion.
 Count the number of times a character appears in a string using recursion.
 
 
-## Misc Challenges
+## Misc
 
 These are the challenges of varying difficulties. Most of the challenges are from LeetCode
 
+### Traverse a Tree
+Code to traverse a tree breadth and depth first
+
+### Traverse Folder
+Code to traverse a folder depth wise
+
+### Coding Challenges
 
 #### Challenge 1 
 https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/
