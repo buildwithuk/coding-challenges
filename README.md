@@ -2,6 +2,20 @@
 
 These are the programs I have wrote that are usually asked in the coding interviews.
 
+### Queue Implementation
+Using Linked Lists
+
+### Stack Implementation
+Using Linked Lists
+
+### Trees
+
+#### Add and Delete BST
+Added operations on binary search tree
+
+#### Traverse BST
+
+
 ### Easy Programs using recursion
 
 #### Factorial of a Number
@@ -41,6 +55,9 @@ Code to traverse a tree breadth and depth first
 
 ### Traverse Folder
 Code to traverse a folder depth wise
+
+### Traversing Linked List
+Code to traverse a linked list
 
 ### Coding Challenges
 

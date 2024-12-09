@@ -13,3 +13,6 @@ Coding Challenges/Challenge 6/DotNet/Robbing House/obj/Debug/net8.0/Robbing Hous
 Coding Challenges/Challenge 3/.DS_Store
 
 *.json
+
+*/.vscode/*
+.vscode/*
