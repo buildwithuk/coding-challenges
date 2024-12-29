@@ -73,8 +73,7 @@ Rotate the array
 Generate Divisors
 
 #### Challenge 5
-
-Find the sum of two integers whose sum is also present in the array.
+https://leetcode.com/problems/two-sum/
 
 #### Challenge 6
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/
