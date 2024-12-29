@@ -139,3 +139,9 @@ https://leetcode.com/problems/first-missing-positive/description/
 
 #### Challenge 26
 https://leetcode.com/problems/single-number-ii/description/
+
+#### Challenge 27
+https://leetcode.com/problems/roman-to-integer/description/
+
+#### Challenge 28
+https://leetcode.com/problems/longest-common-prefix/description/
