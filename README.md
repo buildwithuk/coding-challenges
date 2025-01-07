@@ -144,3 +144,6 @@ https://leetcode.com/problems/roman-to-integer/description/
 
 #### Challenge 28
 https://leetcode.com/problems/longest-common-prefix/description/
+
+#### Challenge 29
+https://leetcode.com/problems/pascals-triangle/
