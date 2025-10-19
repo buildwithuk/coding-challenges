@@ -147,3 +147,9 @@ https://leetcode.com/problems/longest-common-prefix/description/
 
 #### Challenge 29
 https://leetcode.com/problems/pascals-triangle/
+
+
+## A new folder has been added leet-code-in-java-dotnet 
+This folder corresponds to Udemy course [Leet Code in Python](https://udemy.com/course/data-structures-algorithms-python)
+While the course is in Python, I have coded the exercies in the language I use mostly for myself: C#, Typescript, Java.
+
