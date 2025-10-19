@@ -18,3 +18,7 @@ Coding Challenges/Challenge 3/.DS_Store
 .vscode/*
 
 */*.AssemblyInfo.cs
+.settings
+.project
+bin/**
+.classpath
