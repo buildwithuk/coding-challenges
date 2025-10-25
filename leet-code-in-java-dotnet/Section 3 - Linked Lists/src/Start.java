@@ -222,6 +222,24 @@ public class Start {
 		anotherDuplicateList.removeDuplicates();
 		
 		anotherDuplicateList.printList();
+
+		System.out.println("\n\n----------- Binary to Decimal -----------");
+		
+		citiesList.binaryToDecimal();
+
+		Node<Integer> binaryNode1 = new Node<Integer>(1);
+		Node<Integer> binaryNode2 = new Node<Integer>(1);
+		Node<Integer> binaryNode3 = new Node<Integer>(1);
+		
+		binaryNode1.setNextNode(binaryNode2);
+		binaryNode2.setNextNode(binaryNode3);
+		
+		LinkedList<Integer> binaryList = new LinkedList<Integer>(binaryNode1);
+		
+		binaryList.printList();
+		System.out.println("Decimal value: " + binaryList.binaryToDecimal());
+		
+		
 		
 		
 		

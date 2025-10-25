@@ -440,12 +440,11 @@ public class LinkedList<T> {
 				tempNode = currentNode;
 				beforeNode.setNextNode(currentNode.getNextNode());
 				currentNode = tempNode.getNextNode();
-				
 
 			} else {
 				// Move forward
 				duplicatesSet.add(currentNode.getValue());
-				
+
 				tempNode = currentNode;
 				currentNode = currentNode.getNextNode();
 				beforeNode = tempNode;
@@ -458,6 +457,35 @@ public class LinkedList<T> {
 		} else {
 			System.out.println("Total duplicated found and removed: " + duplicatesFound);
 		}
+
+	}
+
+	public int binaryToDecimal() {
+
+		if (!(head.getValue() instanceof Integer)) {
+			System.out.println("Not type of integer. Cant proceed");
+			return -1;
+		}
+
+		int decimalValue = 0;
+
+		if (this.head == null)
+			return decimalValue;
+
+		Node<T> currentNode = this.head;
+
+		decimalValue = (Integer) currentNode.getValue();
+
+		while (currentNode != null) {
+
+			currentNode = currentNode.getNextNode();
+			if (currentNode != null) {
+				decimalValue = (decimalValue * 2) + ((Integer) currentNode.getValue());
+			}
+
+		}
+
+		return decimalValue;
 
 	}
 
