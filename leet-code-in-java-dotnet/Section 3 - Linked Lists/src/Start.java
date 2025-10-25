@@ -5,6 +5,23 @@ import implement.linkedlist.Node;
 public class Start {
 
 	public static void main(String[] args) {
+		
+		// Now initialize a list with loop
+		Node<Integer> node1 = new Node<Integer>(1);
+		Node<Integer> node2 = new Node<Integer>(2);
+		Node<Integer> node3 = new Node<Integer>(3);
+		Node<Integer> node4 = new Node<Integer>(4);
+		
+		node1.setNextNode(node2);
+		node2.setNextNode(node3);
+		node3.setNextNode(node4);
+		node4.setNextNode(node1);
+		
+		LinkedList<Integer> loopedLinkedList = new LinkedList<Integer>();
+		loopedLinkedList.setHead(node1);
+		
+		System.out.println(loopedLinkedList.hasLoop());
+	
 
 		System.out.println("----------- Printing List -----------");
 		Node<String> headNode = new Node<>("Umair");
@@ -136,8 +153,32 @@ public class Start {
 		
 		citiesList.append("New York");
 		
+		System.out.println("\n\n----------- Find middle node -----------");
 		citiesList.printList();
 		System.out.println(citiesList.getMiddleNode());
+		
+		System.out.println("\n\n----------- Has Loop -----------");
+		
+		System.out.println(citiesList.hasLoop());
+		System.out.println(savingsList.hasLoop());
+		System.out.println(currencyLinkedList.hasLoop());
+		System.out.println(billList.hasLoop());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 

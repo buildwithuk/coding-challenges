@@ -6,6 +6,32 @@ public class LinkedList<T> {
 	private Node<T> tail;
 	private int length;
 	
+	public boolean hasLoop() {
+		
+		boolean hasLoop = false;
+		
+		Node<T> slowPointerNode = head;
+		Node<T> fastPointerNode = head;
+		
+		while(fastPointerNode != null && fastPointerNode.getNextNode() != null) {
+			
+			slowPointerNode = slowPointerNode.getNextNode();
+			fastPointerNode = fastPointerNode.getNextNode().getNextNode();
+
+			System.out.println("Value of slow node: " + slowPointerNode + " and faster node: " + fastPointerNode);
+
+			if (slowPointerNode == fastPointerNode) {
+				hasLoop = true;
+				break;
+			}
+		}
+		
+		
+		
+		return hasLoop;
+	}
+	
+	
 	/***
 	 * Finds the middle node of the list with two pointer approach
 	 * This method does not allow finding via list and iterates the list only once
@@ -23,7 +49,7 @@ public class LinkedList<T> {
 
 			if (secondPointerNode != null && secondPointerNode.getNextNode() != null) {
 				middleNode = secondPointerNode;
-				secondPointerNode = secondPointerNode.getNextNode();
+				secondPointerNode = secondPointerNode.getNextNode().getNextNode();
 				
 			} else {
 				
