@@ -164,17 +164,64 @@ public class Start {
 		System.out.println(currencyLinkedList.hasLoop());
 		System.out.println(billList.hasLoop());
 		
+		System.out.println("\n\n----------- Find the Kth Node -----------");
+		
+
+		Node<Integer> numbersNode1 = new Node<Integer>(1);
+		Node<Integer> numbersNode2 = new Node<Integer>(2);
+		Node<Integer> numbersNode3 = new Node<Integer>(3);
+		Node<Integer> numbersNode4 = new Node<Integer>(4);
+		Node<Integer> numbersNode5 = new Node<Integer>(5);
+		Node<Integer> numbersNode6 = new Node<Integer>(6);
+		Node<Integer> numbersNode7 = new Node<Integer>(7);
+		
+		numbersNode1.setNextNode(numbersNode2);
+		numbersNode2.setNextNode(numbersNode3);
+		numbersNode3.setNextNode(numbersNode4);
+		numbersNode4.setNextNode(numbersNode5);
+		numbersNode5.setNextNode(numbersNode6);
+		numbersNode6.setNextNode(numbersNode7);
+		
+		LinkedList<Integer> numberList = new LinkedList<Integer>(numbersNode1);
+		
+		numberList.printList();
+		System.out.println(numberList.getKthNode(19));
+
+		System.out.println("\n\n----------- Find and remove the duplicates -----------");
+		
+		Node<Integer> dup1 = new Node<>(1);
+		
+		LinkedList<Integer> duplicateList = new  LinkedList<Integer>(dup1);
+		
+		duplicateList.removeDuplicates();
 		
 		
+		duplicateList.append(2);
+
+		duplicateList.removeDuplicates();
 		
 		
+		Node<Integer> anotherDup1 = new Node<Integer>(1);
+		Node<Integer> anotherDup2 = new Node<Integer>(2);
+		Node<Integer> anotherDup3 = new Node<Integer>(2);
+		Node<Integer> anotherDup4 = new Node<Integer>(4);
+		Node<Integer> anotherDup5 = new Node<Integer>(5);
+		Node<Integer> anotherDup6 = new Node<Integer>(5);
+		Node<Integer> anotherDup7 = new Node<Integer>(7);
 		
 		
+		anotherDup1.setNextNode(anotherDup2);
+		anotherDup2.setNextNode(anotherDup3);
+		anotherDup3.setNextNode(anotherDup4);
+		anotherDup4.setNextNode(anotherDup5);
+		anotherDup5.setNextNode(anotherDup6);
+		anotherDup6.setNextNode(anotherDup7);
 		
+		LinkedList<Integer> anotherDuplicateList = new LinkedList<>(anotherDup1);
 		
+		anotherDuplicateList.removeDuplicates();
 		
-		
-		
+		anotherDuplicateList.printList();
 		
 		
 		

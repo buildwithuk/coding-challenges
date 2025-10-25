@@ -1,20 +1,47 @@
 package implement.linkedlist;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class LinkedList<T> {
 
 	private Node<T> head;
 	private Node<T> tail;
 	private int length;
-	
+
+	public Node<T> getKthNode(int k) {
+
+		Node<T> slowPointer = head;
+		Node<T> fastPointer = head;
+
+		for (int a = 0; a < k; a++) {
+
+			if (fastPointer != null) {
+				fastPointer = fastPointer.getNextNode();
+			} else {
+				return null;
+			}
+		}
+
+		while (fastPointer != null) {
+
+			slowPointer = slowPointer.getNextNode();
+			fastPointer = fastPointer.getNextNode();
+
+		}
+
+		return slowPointer;
+	}
+
 	public boolean hasLoop() {
-		
+
 		boolean hasLoop = false;
-		
+
 		Node<T> slowPointerNode = head;
 		Node<T> fastPointerNode = head;
-		
-		while(fastPointerNode != null && fastPointerNode.getNextNode() != null) {
-			
+
+		while (fastPointerNode != null && fastPointerNode.getNextNode() != null) {
+
 			slowPointerNode = slowPointerNode.getNextNode();
 			fastPointerNode = fastPointerNode.getNextNode().getNextNode();
 
@@ -25,38 +52,36 @@ public class LinkedList<T> {
 				break;
 			}
 		}
-		
-		
-		
+
 		return hasLoop;
 	}
-	
-	
+
 	/***
-	 * Finds the middle node of the list with two pointer approach
-	 * This method does not allow finding via list and iterates the list only once
+	 * Finds the middle node of the list with two pointer approach This method does
+	 * not allow finding via list and iterates the list only once
+	 * 
 	 * @return
 	 */
 	public Node<T> getMiddleNode() {
-		
+
 		Node<T> middleNode = null;
 		Node<T> secondPointerNode = null;
-		
+
 		middleNode = this.head;
 		secondPointerNode = this.head;
-		
-		while(secondPointerNode.getNextNode() != null) {
+
+		while (secondPointerNode != null && secondPointerNode.getNextNode() != null) {
 
 			if (secondPointerNode != null && secondPointerNode.getNextNode() != null) {
 				middleNode = secondPointerNode;
 				secondPointerNode = secondPointerNode.getNextNode().getNextNode();
-				
+
 			} else {
-				
+
 				break;
 			}
 		}
-		
+
 		return middleNode;
 	}
 
@@ -157,34 +182,35 @@ public class LinkedList<T> {
 		} else {
 
 			Node<T> tempNode = this.head;
-			
+
 			this.head = this.tail;
 			this.tail = tempNode;
-			
+
 			Node<T> afterNode = tempNode.getNextNode();
-			
+
 			Node<T> beforeNode = null;
-			
-			
+
 			// N1 -> N2 -> N3 -> N4
-			
+
 			for (int a = 0; a < length; a++) {
-				
+
 				afterNode = tempNode.getNextNode();
 				tempNode.setNextNode(beforeNode);
 				beforeNode = tempNode;
 				tempNode = afterNode;
-				
+
 			}
-			
+
 		}
 	}
 
 	public LinkedList(Node<T> node) {
 
 		this.head = node;
-		this.setTail(node);
-		length = 1;
+		this.tail = findTheLastNode();
+		length = findLengthOfList();
+
+		System.out.println("Length of the linked list: " + length);
 	}
 
 	// Empty Constructor
@@ -368,7 +394,7 @@ public class LinkedList<T> {
 
 			}
 
-			// Incremennt the length of the list
+			// Increment the length of the list
 			this.length++;
 
 			return true;
@@ -376,6 +402,82 @@ public class LinkedList<T> {
 		} catch (IndexOutOfBoundsException ex) {
 			return false;
 		}
+	}
+
+	public Node<T> findTheLastNode() {
+
+		Node<T> node = this.head;
+
+		while (node.getNextNode() != null)
+			node = node.getNextNode();
+
+		return node;
+	}
+
+	public void removeDuplicates() {
+
+		int duplicatesFound = 0;
+
+		if (this.head == null) {
+			System.out.println("No duplicate(s) found");
+			return;
+		}
+
+		Set<T> duplicatesSet = new HashSet<>();
+
+		Node<T> currentNode = this.head;
+		Node<T> beforeNode = currentNode;
+		Node<T> tempNode = null;
+
+		// 1 -> 3 -> 3 -> 4 -> 5
+
+		while (currentNode != null) {
+
+			if (duplicatesSet.contains(currentNode.getValue())) {
+
+				duplicatesFound++;
+				// Remove the duplicate here
+				tempNode = currentNode;
+				beforeNode.setNextNode(currentNode.getNextNode());
+				currentNode = tempNode.getNextNode();
+				
+
+			} else {
+				// Move forward
+				duplicatesSet.add(currentNode.getValue());
+				
+				tempNode = currentNode;
+				currentNode = currentNode.getNextNode();
+				beforeNode = tempNode;
+			}
+		}
+
+		if (duplicatesFound == 0) {
+			System.out.println("No duplicate(s) found");
+
+		} else {
+			System.out.println("Total duplicated found and removed: " + duplicatesFound);
+		}
+
+	}
+
+	public int findLengthOfList() {
+
+		if (this.head == null)
+			return 0;
+
+		int length = 1;
+
+		Node<T> node = this.head;
+
+		while (node.getNextNode() != null) {
+			node = node.getNextNode();
+			length++;
+
+		}
+
+		return length;
+
 	}
 
 }
