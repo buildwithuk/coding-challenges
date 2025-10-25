@@ -129,6 +129,16 @@ public class Start {
 
 		citiesList.printList();
 		
+		citiesList.append("Tokyo");
+		citiesList.printList();
+
+		System.out.println("\n\n----------- Reverse List Method -----------");
+		
+		citiesList.append("New York");
+		
+		citiesList.printList();
+		System.out.println(citiesList.getMiddleNode());
+		
 	}
 
 }

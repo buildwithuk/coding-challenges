@@ -5,6 +5,34 @@ public class LinkedList<T> {
 	private Node<T> head;
 	private Node<T> tail;
 	private int length;
+	
+	/***
+	 * Finds the middle node of the list with two pointer approach
+	 * This method does not allow finding via list and iterates the list only once
+	 * @return
+	 */
+	public Node<T> getMiddleNode() {
+		
+		Node<T> middleNode = null;
+		Node<T> secondPointerNode = null;
+		
+		middleNode = this.head;
+		secondPointerNode = this.head;
+		
+		while(secondPointerNode.getNextNode() != null) {
+
+			if (secondPointerNode != null && secondPointerNode.getNextNode() != null) {
+				middleNode = secondPointerNode;
+				secondPointerNode = secondPointerNode.getNextNode();
+				
+			} else {
+				
+				break;
+			}
+		}
+		
+		return middleNode;
+	}
 
 	public boolean prepend(T value) {
 
